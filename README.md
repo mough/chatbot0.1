@@ -3,4 +3,4 @@ A starting point for the 2020-2021 Elite Qualifier program for [Code 2 College](
 
 ## ToDo:
 1. Whiteboard ideas for chatbot
-2. to do
+2. walk the dog
